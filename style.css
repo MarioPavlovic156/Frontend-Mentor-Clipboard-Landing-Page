@@ -137,6 +137,12 @@ a:hover {
     margin-bottom: 15px;
 }
 
+/*          #DEVICE             */
+
+.devices {
+    max-width: 100%;
+}
+
 /*          #SUPERCHARGE          */
 
 .desc_5 {
