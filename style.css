@@ -241,6 +241,15 @@ button:hover {
         width: 80%;
     }
 
+    h4, h6 {
+        font-size: large;
+    }
+
+    h6 {
+        text-align: center;
+        width: 80%;
+    }
+
     .computer_img {
         transform: translate(0);
         margin: 10px;
@@ -253,13 +262,8 @@ button:hover {
 }
 
 @media only screen and (max-width: 850px) {
-    h4, h6, .desc_4, .desc_6, .desc_10 {
+    .desc_4, .desc_6, .desc_10 {
         font-size: large;
-    }
-    
-    h6 {
-        text-align: center;
-
     }
 
     ul, #advantages {
@@ -298,7 +302,7 @@ button:hover {
         margin-bottom: 25px;
     }
 
-    h6, .desc_4, .desc_6, .uses_desc, .desc_2, .uses {
+    .desc_4, .desc_6, .uses_desc, .desc_2, .uses {
         width: 80%;
     }
 
