@@ -244,6 +244,7 @@ button:hover {
     .computer_img {
         transform: translate(0);
         margin: 10px;
+        max-width: 98%;
     }
 
     .span_three_div {
